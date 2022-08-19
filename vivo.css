@@ -120,7 +120,7 @@
      font-size:2rem ;
 }
 #sixmain{
-    height: 400px;
+    height: 450px;
     background-color: white;
 }
 #sixbutten{
@@ -132,7 +132,9 @@
     padding-top: 1rem;
     padding-bottom: 1rem;
     border: none;
+    
 }
+
 #sixbutten:hover{
     color: #1ed760;
 }
@@ -160,6 +162,7 @@
 li{
    padding-top: 1rem;
 }
+
 .nine{
     height: 100px;
     background-color:black;
@@ -185,4 +188,7 @@ li{
 }
 #ten p:hover{
     color: #1ed760;
+}
+.eight li{
+    list-style: none;
 }
